@@ -6,3 +6,8 @@ class Concat
   puts "toms"
   puts "jerry"
 end
+
+class feature1
+  "feature1"
+end
+
