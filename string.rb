@@ -22,3 +22,6 @@ end
 class master2
   "master2"
 end
+
+class feature3
+end
