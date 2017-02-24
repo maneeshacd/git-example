@@ -14,3 +14,6 @@ end
 class master2
   "master2"
 end
+
+class master3
+end
