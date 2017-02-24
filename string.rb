@@ -10,3 +10,7 @@ end
 class master1
   "master1"
 end
+
+class master2
+  "master2"
+end
