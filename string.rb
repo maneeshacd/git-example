@@ -4,4 +4,5 @@ class Concat
   puts str111+str222
   puts str11+str22
   puts "toms"
+  puts "jerry"
 end
