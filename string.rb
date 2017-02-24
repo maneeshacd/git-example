@@ -11,3 +11,6 @@ class feature1
   "feature1"
 end
 
+class feature2
+  "feature2"
+end
